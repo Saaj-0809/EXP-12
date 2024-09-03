@@ -45,7 +45,7 @@ int main()
 
 ## Output:
 
-<img width="423" alt="image" src="https://github.com/user-attachments/assets/cdcff579-53a2-4bd3-822c-d30ab72f7194">
+<img width="637" alt="image" src="https://github.com/user-attachments/assets/7b3d316f-5747-4f13-ae38-5b778bd8308b">
 
 ## Defining the constructor outside the class:
 ~~~
@@ -88,7 +88,7 @@ int main()
 
 ## Output:
 
-<img width="422" alt="image" src="https://github.com/user-attachments/assets/d2b99ed5-e1a6-4453-a958-1a519cd45e91">
+<img width="632" alt="image" src="https://github.com/user-attachments/assets/d5d84caf-63d6-4674-a509-6de01b884d82">
 
 ## Default constructor:
 ~~~
@@ -128,7 +128,7 @@ int main() {
 
 ## Output:
 
-<img width="431" alt="image" src="https://github.com/user-attachments/assets/ce64cf60-0f38-46b7-b89c-efcc1eb3a180">
+<img width="641" alt="image" src="https://github.com/user-attachments/assets/920c4d22-3df4-45fa-b9cc-90305894322a">
 
 ## Parameterized constructor:
 ~~~
